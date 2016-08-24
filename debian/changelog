@@ -1,0 +1,52 @@
+uoproxy (0.4) unstable; urgency=low
+
+  * new upstream release
+
+ -- Max Kellermann <max@duempel.org>  Sat, 01 Sep 2012 09:59:39 +0200
+
+uoproxy (0.3) unstable; urgency=low
+
+  * new upstream release
+  * Standards-Version 3.8.4
+  * init: complete the LSB section
+  * copyright: refer to GPLv2
+  * copyright: complete the copyright notice
+  * control: depend on ${misc:Depends}
+
+ -- Max Kellermann <max@duempel.org>  Mon, 01 Mar 2010 22:44:33 +0100
+
+uoproxy (0.2) unstable; urgency=low
+
+  * new upstream release
+  * moved DH_COMPAT to debian/compat
+
+ -- Max Kellermann <max@duempel.org>  Tue, 25 Dec 2007 12:40:32 +0100
+
+uoproxy (0.1.3) unstable; urgency=low
+
+  * new upstream release
+  * LSB init script
+  * don't use cdbs
+  * added debian/copyright
+  * moved uoproxy binary to /usr/sbin
+
+ -- Max Kellermann <max@duempel.org>  Sun, 29 Oct 2006 19:22:28 +0100
+
+uoproxy (0.1.2) unstable; urgency=low
+
+  * new upstream release
+
+ -- Max Kellermann <max@duempel.org>  Wed,  8 Feb 2006 23:42:42 +0100
+
+uoproxy (0.1.1) unstable; urgency=low
+
+  * new upstream release
+
+ -- Max Kellermann <max@duempel.org>  Tue, 27 Dec 2005 00:21:14 +0100
+
+uoproxy (0.1.0) unstable; urgency=low
+
+  * initial debian package
+
+ -- Max Kellermann <max@duempel.org>  Wed, 14 Dec 2005 23:32:35 +0100
+
